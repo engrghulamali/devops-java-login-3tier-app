@@ -37,7 +37,7 @@ Before starting the deployment, ensure you have the following:
 
 2. **GitHub Account and Repository**:
    - Create a [GitHub account](https://github.com/join) if you don't have one.
-   - Fork the Java source code from the [Java-Login-App repository](https://github.com/engrghulamali/DevOps-Projects/blob/master/DevOps-Project-01/Java-Login-App) to your GitHub account.
+   - Fork the Java source code from the [Java-Login-App repository](https://github.com/engrghulamali/devops-java-login-3tier-app) to your GitHub account.
 
 3. **SonarCloud Account**:
    - Create an account on [SonarCloud](https://sonarcloud.io/) for static code analysis and code quality checks.
